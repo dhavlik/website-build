@@ -12,13 +12,8 @@ Den Editor könnt ihr mit dem Druck auf die Punkt-Taste[.] oder über den [Link]
 
 ### Einen neuen Blog-Artikel erstellen oder ändern
 
-1. neuen Abzweig(Branch) der Webseite erstellen
-    1. Im Editor auf der Linken Seite die Codeverwaltung öffnen
-    1. das 3-Punkt-Menü öffnen
-        1. Branch -> Branch erstellen
-        1. Vergib einen Namen zB `Blogpost-MeinErsterBlogpost`
-            1. Benutze bitte `Blogpost-*****`
-1. Erstelle eine neue Datei mit dem "Explorer"
+1. neuen Fork des Repositorys erstellen
+1. Erstelle dort eine neue Datei mit dem "Explorer"
     1. Öffne den Ordner `content` -> `posts`
     1. erstelle eine neue Datei mit dem vorangestellten Datum zB. `2023-02-02-Mein-erster-Blogpost.markdown`
 2. Schreiben des Blogposts
@@ -43,7 +38,7 @@ Den Editor könnt ihr mit dem Druck auf die Punkt-Taste[.] oder über den [Link]
             ---
             ```
     1. Dahinter kommt [Markdown](https://de.wikipedia.org/wiki/Markdown) Format dein Text.
-        1. Als Hilfe um den Text zu verfassen kannst du auch https://pads.eigenbaukombinat.de benutzen und ihn hier rein kopieren.
+    1. Als Hilfe um den Text zu verfassen kannst du auch https://pads.eigenbaukombinat.de benutzen und ihn hier rein kopieren.
     1. Speichern
         1. QuellcodeVerwaltung öffnen
         1. die Geänderte Datei mit dem Plus[+] hinzufügen
